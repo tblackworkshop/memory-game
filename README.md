@@ -1,6 +1,6 @@
 # memory-game
 Simple game made in JavaScript, HTML, and CSS
 
-Game will flip cards over upon click and reset if no match is found
+Game will flip cards over upon click. Cards will be removed and add points if they are a matching pair and will flip back over if no match is found
 
-Download and unzip folder and open index.html in your browser to run
+To run download and unzip the project folder and open index.html in a browser
